@@ -164,13 +164,11 @@ header .navlist li a {
 }
 
 .section2 .aa .photo-1 {
-  background-image: url("/assets/img/cccc.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .section2 .aa .photo-2 {
-  background-image: url("/assets/img/cccc1.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -181,8 +179,6 @@ header .navlist li a {
 
 .section3 {
   color: white;
-  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.85))), url("/assets/img/catbig.jpg");
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.85)), url("/assets/img/catbig.jpg");
   background-position: 25% 95%;
   background-size: cover;
   height: 60vh;
